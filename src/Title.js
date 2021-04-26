@@ -1,5 +1,7 @@
 import React from 'react';
 import './Title.css';
+import mobilelogo from './mobile-logo.png';
+import mobileframe from './iPhoneX.png';
 function Title(){
     return(
         <>
@@ -18,7 +20,9 @@ every school member!!
 
         </sections>
         </section>
-        <section id="title-right"></section>
+        <img src={mobileframe} className="mobileframe"/>;
+        {/* <img src={mobilelogo} className="mobilelogo"/>; */}
+        <div className="mobile-middle-frame"></div>
         </section>
         </>
     )

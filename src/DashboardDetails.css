@@ -1,0 +1,114 @@
+.dashboard-details{position: absolute;
+width: 100%;
+height: 1110px;
+left: 1.01px;
+top: 696px;
+
+background: #FFFFFF;
+}
+.dashboard-details-title{
+    position: absolute;
+width: 540px;
+height: 64px;
+left: 446.01px;
+top: 90px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 64px;
+/* identical to box height, or 160% */
+
+text-align: center;
+
+color: #333333;
+}
+.dashboard-details-subdetails{
+    position: absolute;
+width: 835px;
+height: 66px;
+left: 298.01px;
+top: 174px;
+
+font-family: SF UI Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+
+text-align: center;
+font-feature-settings: 'liga' off;
+
+color: #666666;
+    
+}
+.dashboard-details-benifits-student{
+    position: absolute;
+width: 327px;
+height: 713px;
+left: 157.01px;
+top: 280px;
+bottom: 117px;
+
+}
+.dashboard-details-benifits-teacher{
+    position: absolute;
+width: 310px;
+height: 713px;
+left: 587.01px;
+top: 280px;
+
+}
+.dashboard-details-benifits-school{
+    position: absolute;
+    width: 366px;
+    height: 711.05px;
+    left: 1016.01px;
+    top: 308.95px;
+}
+.dashboard-details-benifits-student-pic{
+    position: absolute;
+width: 240.58px;
+height: 262px;
+left: 204.85px;
+top: 280px;
+}
+.dashboard-student-title{
+    position: absolute;
+    width: 250px;
+    height: 32px;
+    left:0;
+    top:0;
+
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    text-align: center;
+    
+    color: #333333;
+}
+.dashboard-student-subdetails{
+    position: absolute;
+width: 327px;
+height: 505px;
+left: 156px;
+top: 488px;
+
+}
+.dashboard-student-features{
+    position: absolute;
+width: 327px;
+height: 378px;
+left: 157.01px;
+top: 1311px;
+}
+.dashboard-student-features{position: absolute;
+width: 327px;
+height: 378px;
+left: 157.01px;
+top: 615px;}
