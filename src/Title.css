@@ -1,0 +1,55 @@
+#title{
+    height:600px;
+    width:100%;
+    background-color: #F6F6F6;
+
+}
+#title-left
+{
+    position: relative;
+}
+#title-details{
+    position: absolute;
+width: 596px;
+height: 66px;
+left: 60.01px;
+top: 300px;
+
+font-family: SF UI Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+
+font-feature-settings: 'liga' off;
+
+color: #666666;
+}
+#button-get-product-demo{
+    color:#3158C4;
+    margin-left: 10px;
+}
+#title-heading
+{
+    color: #333333;
+    font-family: SF Pro Display;
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 60px;
+/* or 150% */
+
+font-feature-settings: 'liga' off;
+position: absolute;
+width: 589px;
+height: 120px;
+left: 60.01px;
+top: 150px;
+
+}
+#title-buttons{
+    position: absolute;
+    top:400px;
+    left:70px;
+}
